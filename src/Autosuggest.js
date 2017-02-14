@@ -451,7 +451,7 @@ export default class Autosuggest extends Component {
           this.onSuggestionsClearRequested();
         }
       },
-      onChange: event => {
+      onInput: event => {
         const { value } = event.target;
         const shouldRender = shouldRenderSuggestions(value);
 
