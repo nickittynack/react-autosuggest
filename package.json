@@ -23,7 +23,7 @@
     "prepublish": "npm run dist && npm run standalone"
   },
   "dependencies": {
-    "react-autowhatever": "^7.0.0",
+    "react-autowhatever": "git+https://github.com/nickittynack/react-autowhatever.git#dfd358df01e5568244774777fb31a3939ca03d41",
     "shallow-equal": "^1.0.0"
   },
   "peerDependencies": {
