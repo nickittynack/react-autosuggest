@@ -1,6 +1,11 @@
 node_modules
 coverage
 .nyc_output
+<<<<<<< HEAD
 demo/dist
 npm-debug.log
 yarn.lock
+=======
+.happypack
+npm-debug.log
+>>>>>>> f978be3b730ea493973a8de4af96c010949353b1
